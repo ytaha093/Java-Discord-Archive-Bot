@@ -22,7 +22,7 @@ public class Main<E extends Comparable> {
     jda.getPresence()
         .setActivity(
             Activity.listening(
-                "the crys of the infedels i locked in in my basement and havent fed in a week because they forgot 1 of their daily prayers"));
+                "🤖beep boop🤖"));
     // jda.getPresence().setActivity(Activity.playing("New .stats and .levelup commands!!"));
 
   }
